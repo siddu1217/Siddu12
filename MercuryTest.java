@@ -1,7 +1,7 @@
 package  Day_015_ParallelTests;
 import org.testng.annotations.Test;
 import CommonUtil.*;
-import org.openqa.selenium.WebDriver;
+
 
 import org.openqa.selenium.By;
 public class MercuryTest
